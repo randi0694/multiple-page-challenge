@@ -1,6 +1,12 @@
-body {
+body{
+    margin:auto;
   background: beige;
 }
 h1 {
   text-align: center;
+}
+img{
+    
+    max-width: 65%;
+    height: auto;
 }
