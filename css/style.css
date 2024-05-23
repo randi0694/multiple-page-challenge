@@ -1,27 +1,22 @@
 body {
-  margin: auto;
   background: #f8e8a6;
-  text-align: center;
 }
-h1 {
+
+h1, p {
   text-align: center;
   font-size: 30px;
 
 }
-img {
+.croissant {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
-  height: auto;
+  margin: 30px auto;
+  max-width: 55%;
   border-radius: 10px;
 }
 footer {
-  display: block;
   text-align: center;
-  margin-top: 30px;
-  word-spacing: 2em;
 }
-a {
+footer a {
+    margin:0 10px;
   color: green;
 }
