@@ -4,9 +4,8 @@ body {
 
 h1, p {
   text-align: center;
-  font-size: 30px;
-
 }
+
 .croissant {
   display: block;
   margin: 30px auto;
