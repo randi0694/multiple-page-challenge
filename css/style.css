@@ -1,12 +1,26 @@
-body{
-    margin:auto;
-  background: beige;
+body {
+  margin: auto;
+  background: #f8e8a6;
 }
 h1 {
   text-align: center;
+  font-size: 30px;
+
 }
-img{
-    
-    max-width: 65%;
-    height: auto;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: auto;
+  border-radius: 10px;
+}
+footer {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+  word-spacing: 2em;
+}
+a {
+  color: green;
 }
